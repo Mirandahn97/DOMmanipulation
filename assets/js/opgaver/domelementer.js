@@ -8,8 +8,10 @@ Du skal finde elementet med id="yellowFigure" og console logge det.
 */
 
 // din kode her
-
-
+let Red = document.getElementById ('redFigure')
+console.log ('Red')
+let Yellow = document.getElementById('yellowFigure')
+console.log ('Yellow')
 /* opgave 1.2
 Du skal ændre baggrundsfarve på de to elementer du har fundet i opgave 1.1
 farven på elementerne skal være blå. brug evt. elelement.style.backgroundColor
